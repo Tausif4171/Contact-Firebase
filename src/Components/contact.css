@@ -126,7 +126,7 @@ form .form-row .textarea{
   position: relative;
   z-index: 2;
 }
-@media (max-width: 700px) {
+@media (max-width: 768px) {
     .container{
         background: #fff;
         width: auto;
